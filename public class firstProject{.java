@@ -5,4 +5,3 @@ public class firstProject{
         System.out.print(i);
         }
     }
-}
